@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MaazBinNaseer
 - 👀 I’m interested in ... making wesbites and mobile applications. 
-- 🌱 I’m currently learning ...website development and design.
+- 🌱 I’m currently learning C languages and other stuff in 42 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... maazbinnaseer@gmail.com
 
 <!---
 MaazBinNaseer/MaazBinNaseer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
