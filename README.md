@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![image] https://www.codewars.com/users/MaazBinNaseer/badges/large
+![image](https://www.codewars.com/users/MaazBinNaseer/badges/large)
