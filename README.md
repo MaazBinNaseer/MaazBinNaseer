@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Minishell replication](https://github.com/MaazBinNaseer/Minishell-)
 
-- 🌱 I’m currently learning **Cyber security and flutter**
+- 🌱 I’m currently learning **Cyber security and C/C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaazBinNaseer](https://github.com/MaazBinNaseer)
 
