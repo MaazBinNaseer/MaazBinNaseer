@@ -28,4 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maazbinnaseer&theme=dark" alt="maazbinnaseer" /></p>
 
 <h3 align="left">CodeWars:</h3>
+
 ![image](https://www.codewars.com/users/MaazBinNaseer/badges/large)
