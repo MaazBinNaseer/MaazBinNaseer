@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maaz Bin Naseer</h1>
 <h3 align="center">A passionate software developer and curious mind on cyber security</h3>
 
-- 🔭 I’m currently working on [Minishell replication](https://github.com/MaazBinNaseer/Minishell-42)
+- 🔭 I’m currently working on [Shell replication](https://github.com/MaazBinNaseer/Minishell-42)
 
 - 🌱 I’m currently learning **Cyber security and C/C++**
 
